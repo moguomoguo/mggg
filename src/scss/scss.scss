@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+#goodslist{
+    ul{
+        width:100%;
+        li{
+            width:300px;
+            height:300px;
+            float: left;
+            padding:20px 16px;
+            img{
+                width:300px;
+                height:200px;
+            }
+        }
+    }
+}

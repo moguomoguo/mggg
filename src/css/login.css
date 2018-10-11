@@ -1,0 +1,4 @@
+#main .head{padding: 20px 0;}
+#main .head i{display: block;width: 169px;height: 57px;background:url(../images/welland.gif) 0 -58px no-repeat;float: left;}
+#main form{border:2px solid #ccc;position:relative;}
+#main span{display:block;width: 100px;height: 30px;position:absolute;left:550px;bottom: 60px;font-size: 14px;}
